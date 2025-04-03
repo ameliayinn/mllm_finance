@@ -1,12 +1,3 @@
-# Time Series Forecast Diffusion Model
-
-This repository implements a diffusion model for time series forecasting with conditioning on text inputs. The model leverages BERT for text embeddings and a Transformer-based architecture for modeling the time series data.
-
-## Requirements
-
-Install the dependencies using pip:
-
-
 ## Usage
 
 ### 1. Prepare Your Data
